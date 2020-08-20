@@ -1,0 +1,15 @@
+﻿main{
+    background-color:lightsalmon;
+}
+article{
+    color:darkblue;
+}
+.headingstyle{
+    text-decoration:underline;
+}
+#Link{
+    font-weight:bold;
+}
+footer{
+    font-style:italic;
+}
