@@ -22,3 +22,6 @@ footer{
 .classstyle{
     color:firebrick
 }
+nav ul li {
+    display: inline-block; 
+}
