@@ -68,6 +68,13 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Classes.html" />
+    <Content Include="CSS\style.css" />
+    <Content Include="images\Image.png" />
+    <Content Include="images\logo.jpg" />
+    <Content Include="images\Photo1.jpg" />
+    <Content Include="images\Photo2.jpg" />
+    <Content Include="images\Photo3.jpg" />
+    <Content Include="images\Photo4.jpg" />
     <Content Include="Team.html" />
     <Content Include="Contact.html" />
     <Content Include="index.html" />
@@ -86,8 +93,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="CSS\" />
-    <Folder Include="images\" />
     <Folder Include="js\" />
   </ItemGroup>
   <PropertyGroup>

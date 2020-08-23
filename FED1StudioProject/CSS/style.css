@@ -1,0 +1,81 @@
+﻿/*#region header, footer, nav*/
+
+nav ul li{
+    display:inline-block;
+}
+#headerOverly {
+    background-image: url(../images/logo.jpg);
+    background-repeat: no-repeat;
+    background-size: 50px;
+    background-position: 0%;
+    padding: 2em;
+    margin-left: 10px;
+}
+
+header h1, .Slogan{
+    margin: 7px 0px 7px 0px;
+    text-align: left;
+}
+
+nav, header{
+    border:solid 1px black;
+
+}
+
+nav ul li a{
+    margin-right: 100px;
+}
+
+footer{
+    border: solid 2px black;
+    margin: 1px;
+    padding: 40px;
+}
+/*#endregion*/
+
+/*#region index*/
+.photo1{
+    width: 200px;
+    margin-right: 20px;
+}
+.photo2{
+    width: 300px;
+    margin-right: 20px;
+}
+.photo3 {
+    width: 375px;
+    margin-right: 20px;
+}
+
+.whychooseus{
+    text-align: center;
+    font-size: 45px;
+}
+/*#endregion*/
+
+/*#region classes*/
+
+.classtable{
+    margin-right:auto;
+    margin-left:auto;
+}
+
+.classtable td{
+    padding: 20px;
+
+}
+.classtable td p{
+    margin:10px;
+}
+.classtable td h3{
+    margin:10px;
+}
+.classlist{
+    margin-right:auto;
+    margin-left:auto;
+}
+.classtable td div {
+    border: solid 1px black;
+    width: 235px;
+}
+/*#endregion*/
