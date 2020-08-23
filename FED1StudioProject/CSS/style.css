@@ -1,0 +1,132 @@
+﻿/*#region header, footer, nav*/
+
+nav ul li{
+    display:inline-block;
+}
+#headerOverly {
+    background-image: url(../images/logo.jpg);
+    background-repeat: no-repeat;
+    background-size: 50px;
+    background-position: 0%;
+    padding: 2em;
+    margin-left: 10px;
+}
+
+header h1, .Slogan{
+    margin: 7px 0px 7px 0px;
+    text-align: left;
+}
+
+nav, header{
+    border:solid 1px black;
+
+}
+
+nav ul li a{
+    margin-right: 100px;
+}
+
+footer{
+    border: solid 2px black;
+    margin: 1px;
+    padding: 40px;
+}
+/*#endregion*/
+
+/*#region index*/
+.photo1{
+    width: 200px;
+    margin-right: 20px;
+}
+.photo2{
+    width: 300px;
+    margin-right: 20px;
+}
+.photo3 {
+    width: 375px;
+    margin-right: 20px;
+}
+
+.whychooseus{
+    text-align: center;
+    font-size: 45px;
+}
+/*#endregion*/
+
+/*#region classes*/
+
+.classtable{
+    margin-right:auto;
+    margin-left:auto;
+}
+
+.classtable td{
+    padding: 20px;
+
+}
+.classtable td p{
+    margin:10px;
+}
+.classtable td h3{
+    margin:10px;
+}
+.classlist{
+    margin-right:auto;
+    margin-left:auto;
+}
+.classtable td div {
+    border: solid 1px black;
+    width: 235px;
+}
+/*#endregion*/
+
+/*#region team*/
+.teams img{
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+
+#bydepartment{
+    width: 25%;
+    float:right;
+}
+#leadership {
+    width: 75%;
+    float: left;
+    border-right: 1px solid black;
+    box-sizing:border-box
+}
+.clear{
+    clear: both;
+}
+#bydepartment li{
+    padding:10px;
+}
+#bydepartment h2{
+    text-align:center;
+}
+#leadership h2{
+    text-align:center;
+}
+/*#endregion*/
+
+/*#region contact*/
+
+.contact h2, .contact table{
+    text-align:center;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+.contact td{
+    text-align:left;
+    padding: 10px;
+    border:solid 1px black;
+}
+
+.contact table{
+    border-collapse:collapse;
+    margin-bottom: 30px;
+}
+/*#endregion*/
