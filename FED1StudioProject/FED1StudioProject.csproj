@@ -75,6 +75,9 @@
     <Content Include="images\Photo2.jpg" />
     <Content Include="images\Photo3.jpg" />
     <Content Include="images\Photo4.jpg" />
+    <Content Include="images\prof1.jpg" />
+    <Content Include="images\prof2.jpg" />
+    <Content Include="images\prof3.jpg" />
     <Content Include="Team.html" />
     <Content Include="Contact.html" />
     <Content Include="index.html" />

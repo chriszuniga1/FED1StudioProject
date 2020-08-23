@@ -79,3 +79,54 @@ footer{
     width: 235px;
 }
 /*#endregion*/
+
+/*#region team*/
+.teams img{
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+
+#bydepartment{
+    width: 25%;
+    float:right;
+}
+#leadership {
+    width: 75%;
+    float: left;
+    border-right: 1px solid black;
+    box-sizing:border-box
+}
+.clear{
+    clear: both;
+}
+#bydepartment li{
+    padding:10px;
+}
+#bydepartment h2{
+    text-align:center;
+}
+#leadership h2{
+    text-align:center;
+}
+/*#endregion*/
+
+/*#region contact*/
+
+.contact h2, .contact table{
+    text-align:center;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+.contact td{
+    text-align:left;
+    padding: 10px;
+    border:solid 1px black;
+}
+
+.contact table{
+    border-collapse:collapse;
+    margin-bottom: 30px;
+}
+/*#endregion*/
